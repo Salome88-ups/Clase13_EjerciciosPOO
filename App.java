@@ -2,7 +2,7 @@ System.out.println("Ejercicios Clase 13 POO");
 public class App {
 
     public static void main(String[] args) {
-
+        System.out.println("Ejercicios Clase 13 - Programacion Orientada a Objetos");
 
         // EJERCICIO 1
 
@@ -50,5 +50,5 @@ public class App {
 
 
     }
-
+    System.out.println("Programa Clase 13 finalizado correctamente");
 }
