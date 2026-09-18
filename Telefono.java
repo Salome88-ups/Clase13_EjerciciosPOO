@@ -55,7 +55,7 @@ public class Telefono {
         if(precio >= 0){
             this.precio = precio;
         }else{
-            System.out.println("Error: El precio no puede ser negativo");
+            System.out.println("Precio invalido, ingrese un valor positivo");
         }
 
     }
